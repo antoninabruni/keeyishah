@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cohzubienu.skillbox.com/sitemap.xml
